@@ -6,3 +6,13 @@ Model : Toyota
 year : 2016
 
 fuel : Diesel
+
+2.
+
+name : Polo
+
+model : volkswagen
+
+year : 2016
+
+fuel : Petrol
