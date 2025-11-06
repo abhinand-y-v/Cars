@@ -1,0 +1,8 @@
+1.
+name : Fortuner
+
+Model : Toyota
+
+year : 2016
+
+fuel : Diesel
